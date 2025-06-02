@@ -10,7 +10,7 @@
 Um Serviço de que intermedia e simplifica a comunicação com uma API, baseado no projeto educacioanl proposto por roadmap.sh.
 
 **Key features**:
-- ✅ Smart caching with Redis
+- ✅ [Smart caching](https://redis.io/docs/latest/develop/clients/client-side-caching/) with [Redis](https://redis.io/)
 - ✅ Comprehensive API documentation
 
 ## ⚙️ Setup & Installation
