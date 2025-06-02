@@ -25,10 +25,7 @@ http://localhost:3000/api-docs
 ## 🔧 Tech Stack
 - **Backend**: FastAPI
 - **Caching**: Redis
-- **Testing**: *
-- **Documentation**: Swagger
-- **Deployment**: Docker, Github Actions
-- 
+- **Documentation**: Swagger 
 ---
 
 ## Attribution & References
